@@ -12,8 +12,8 @@
  ## Part 2: Coding Technique Exploration
  ## Explanation
  ### Coding Technique: Particle Systems 
-  - This coding technique, using particle systems, helps create dynamic, evolving visual effects by simulating small units (particles) that follow certain behaviors. For instance, in the triangle trail effect, each particle interacts with others to form triangular shapes, mimicking natural movement like a flock of birds or a school of fish. This technique allows for randomness and flexibility, ensuring that the design feels organic and ever-changing. For my project, this is useful because it adds an element of unpredictability and aesthetic complexity while remaining relatively easy to implement with tools like p5.js.
- ## image showcasing the coding technique in action
+  - This coding technique, using particle systems, helps create dynamic, evolving visual effects by simulating small units (particles) that follow certain behaviors. For instance, in the triangle trail effect, each particle interacts with others to form triangular shapes, mimicking natural movement like a flock of birds or a school of fish. This technique allows for randomness and flexibility, ensuring that the design feels organic and ever-changing. For my project, this is useful because it adds an element of unpredictability and aesthetic complexity.
+ ## Image showcasing the coding technique in action
  ### Points/ billboards
   - ![img of example](readmeimg/5.png)
   - [Example Linkilibil](https://github.com/mrdoob/three.js/blob/master/examples/webgl_points_billboards.html);
